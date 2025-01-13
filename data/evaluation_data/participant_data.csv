@@ -1,0 +1,12 @@
+,participant_id,gender,age,education
+0,3,male,31,phd
+1,4,male,30,master
+2,2,male,53,phd
+3,5,female,35,master
+4,6,female,31,bachelor
+5,12,male,28,master
+6,8,male,32,phd
+7,7,female,39,phd
+8,1,None,33,master
+9,10,male,31,master
+10,9,female,36,phd
